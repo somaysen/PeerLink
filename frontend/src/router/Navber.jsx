@@ -1,4 +1,3 @@
-import React from "react";
 import { NavLink } from "react-router"; // ✅ use react-router-dom, not react-router
 
 function Navbar() {

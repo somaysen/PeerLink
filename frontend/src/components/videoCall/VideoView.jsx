@@ -1,4 +1,4 @@
-import React, { forwardRef } from "react";
+import { forwardRef } from "react";
 
 const VideoView = forwardRef(({ label, muted = false }, ref) => (
   <div className="flex flex-col items-center">
